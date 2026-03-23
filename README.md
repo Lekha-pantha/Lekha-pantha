@@ -21,10 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
 
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=Lekha-pantha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lekha-pantha&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lekha-pantha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 
