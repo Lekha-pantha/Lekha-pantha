@@ -11,7 +11,7 @@
 
 
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
